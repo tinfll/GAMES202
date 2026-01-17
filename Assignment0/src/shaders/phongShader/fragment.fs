@@ -21,7 +21,7 @@ void main(void) {
     color = uKd;
   }
   
-  vec3 ambient = 0.05 * color;
+  vec3 ambient = 1 * color;
 
   vec3 lightDir = normalize(uLightPos - vFragPos);
   vec3 normal = normalize(vNormal);

@@ -39,7 +39,7 @@ function GAMES202Main() {
 	const renderer = new WebGLRenderer(gl, camera);
 	renderer.addLight(pointLight);
 	//加载模型
-	loadOBJ(renderer, 'assets/mary/', 'Marry');
+	loadOBJ(renderer, 'assets/me/', '2');
 	//用来控制模型的位置和大小 
 	var guiParams = {
 		modelTransX: 0,

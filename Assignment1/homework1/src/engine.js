@@ -68,7 +68,7 @@ function GAMES202Main() {
 	let floorTransform = setTransform(0, 0, 0, 0, 0, 0, 6, 6, 6);
 	let obj1Transform = setTransform(0, 0, 0, 0, 0, 0, 10, 10, 10);
 
-	loadOBJ(renderer, 'assets/mary/', 'Marry', 'PhongMaterial', obj1Transform);
+	loadOBJ(renderer, 'assets/qmhs/', 'qmhs', 'PhongMaterial', obj1Transform);
 	loadOBJ(renderer, 'assets/floor/', 'floor', 'PhongMaterial', floorTransform);
 
 	// function createGUI() {

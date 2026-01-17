@@ -24,8 +24,14 @@ function loadOBJ(renderer, path, name) {
 				.load(name + '.obj', function (object) {
 					object.traverse(function (child) {
 						if (child.isMesh) {
-							let geo = child.geometry;
+							let geo = child.geometry;//？
 							let mat;
+//geometry groups:多材质标记
+							let groups = geo.groups.length > 0 ? geo.groups : [{
+								start: 0,
+								count: geo.attributes.position.count,
+								materialIndex: 0
+							}];
 							if (Array.isArray(child.material)) mat = child.material[0];
 							else mat = child.material;
 

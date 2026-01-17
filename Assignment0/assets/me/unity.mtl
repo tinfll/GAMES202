@@ -1,0 +1,1003 @@
+# Blender 4.2.15 LTS MTL File: '2.blend'
+# www.blender.org
+
+newmtl MToon_Outline_(N00_000_00_Body_00_SKIN_(Instance))
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_10.png
+map_Ke C:/Shader_NoneBlack.png
+map_Bump -bm 1.000000 C:/_11.png
+
+newmtl MToon_Outline_(N00_000_00_Body_00_SKIN_(Instance).001)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_10_001.png
+map_Ke C:/Shader_NoneBlack_001.png
+map_Bump -bm 1.000000 C:/_11_001.png
+
+newmtl MToon_Outline_(N00_000_00_Body_00_SKIN_(Instance).002)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_10_002.png
+map_Ke C:/Shader_NoneBlack_002.png
+map_Bump -bm 1.000000 C:/_11_002.png
+
+newmtl MToon_Outline_(N00_000_00_Body_00_SKIN_(Instance).003)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_10_003.png
+map_Ke C:/Shader_NoneBlack_003.png
+map_Bump -bm 1.000000 C:/_11_003.png
+
+newmtl MToon_Outline_(N00_000_00_Face_00_SKIN_(Instance))
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_04.png
+map_Ke C:/Shader_NoneBlack.png
+map_Bump -bm 1.000000 C:/_05.png
+
+newmtl MToon_Outline_(N00_000_00_Face_00_SKIN_(Instance).001)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_04_001.png
+map_Ke C:/Shader_NoneBlack_001.png
+map_Bump -bm 1.000000 C:/_05_001.png
+
+newmtl MToon_Outline_(N00_000_00_Face_00_SKIN_(Instance).002)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_04_002.png
+map_Ke C:/Shader_NoneBlack_002.png
+map_Bump -bm 1.000000 C:/_05_002.png
+
+newmtl MToon_Outline_(N00_000_00_Face_00_SKIN_(Instance).003)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_04_003.png
+map_Ke C:/Shader_NoneBlack_003.png
+map_Bump -bm 1.000000 C:/_05_003.png
+
+newmtl MToon_Outline_(N00_001_01_Bottoms_01_CLOTH_(Instance))
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_14_001.png
+map_Ke C:/Shader_NoneBlack_001.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_001.png
+
+newmtl MToon_Outline_(N00_001_01_Bottoms_01_CLOTH_(Instance).001)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_13_003.png
+map_Ke C:/Shader_NoneBlack_003.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_003.png
+
+newmtl MToon_Outline_(N00_001_03_Bottoms_01_CLOTH_(Instance))
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_14.png
+map_Ke C:/Shader_NoneBlack.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal.png
+
+newmtl MToon_Outline_(N00_001_03_Bottoms_01_CLOTH_(Instance).001)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_14_002.png
+map_Ke C:/Shader_NoneBlack_002.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_002.png
+
+newmtl MToon_Outline_(N00_004_01_Shoes_01_CLOTH_(Instance))
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_15_001.png
+map_Ke C:/Shader_NoneBlack_001.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_001.png
+
+newmtl MToon_Outline_(N00_007_01_Accessory_Tie_01_CLOTH_(Instance))
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_17_003.png
+map_Ke C:/Shader_NoneBlack_003.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_003.png
+
+newmtl MToon_Outline_(N00_007_01_Tops_01_CLOTH_(Instance))
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_13.png
+map_Ke C:/Shader_NoneBlack.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal.png
+
+newmtl MToon_Outline_(N00_007_01_Tops_01_CLOTH_(Instance).001)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_13_002.png
+map_Ke C:/Shader_NoneBlack_002.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_002.png
+
+newmtl MToon_Outline_(N00_007_01_Tops_01_CLOTH_01_(Instance))
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_13_001.png
+map_Ke C:/Shader_NoneBlack_001.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_001.png
+
+newmtl MToon_Outline_(N00_007_01_Tops_01_CLOTH_02_(Instance))
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_16_001.png
+map_Ke C:/Shader_NoneBlack_001.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_001.png
+
+newmtl MToon_Outline_(N00_007_02_Accessory_Tie_01_CLOTH_(Instance))
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_18_001.png
+map_Ke C:/Shader_NoneBlack_001.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_001.png
+
+newmtl MToon_Outline_(N00_007_02_Tops_01_CLOTH_(Instance))
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_17_001.png
+map_Ke C:/Shader_NoneBlack_001.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_001.png
+
+newmtl MToon_Outline_(N00_007_02_Tops_01_CLOTH_01_(Instance))
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_15_003.png
+map_Ke C:/Shader_NoneBlack_003.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_003.png
+
+newmtl MToon_Outline_(N00_007_02_Tops_01_CLOTH_02_(Instance))
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_16_003.png
+map_Ke C:/Shader_NoneBlack_003.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_003.png
+
+newmtl MToon_Outline_(N00_008_01_Shoes_01_CLOTH_(Instance))
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_14_003.png
+map_Ke C:/Shader_NoneBlack_003.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_003.png
+
+newmtl MToon_Outline_(N00_008_01_Shoes_01_CLOTH_01_(Instance))
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_15.png
+map_Ke C:/Shader_NoneBlack.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal.png
+
+newmtl MToon_Outline_(N00_008_01_Shoes_01_CLOTH_01_(Instance).001)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_15_002.png
+map_Ke C:/Shader_NoneBlack_002.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_002.png
+
+newmtl MToon_Outline_(N00_008_01_Shoes_01_CLOTH_02_(Instance))
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_16.png
+map_Ke C:/Shader_NoneBlack.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal.png
+
+newmtl MToon_Outline_(N00_008_01_Shoes_01_CLOTH_02_(Instance).001)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_16_002.png
+map_Ke C:/Shader_NoneBlack_002.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_002.png
+
+newmtl MToon_Outline_(N00_010_01_Onepiece_00_CLOTH_(Instance))
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_17.png
+map_Ke C:/Shader_NoneBlack.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal.png
+
+newmtl MToon_Outline_(N00_010_01_Onepiece_00_CLOTH_(Instance).001)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_17_002.png
+map_Ke C:/Shader_NoneBlack_002.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_002.png
+
+newmtl N00_000_00_Body_00_SKIN_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_10.png
+map_Ke C:/Shader_NoneBlack.png
+map_Bump -bm 1.000000 C:/_11.png
+
+newmtl N00_000_00_Body_00_SKIN_(Instance).001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_10_001.png
+map_Ke C:/Shader_NoneBlack_001.png
+map_Bump -bm 1.000000 C:/_11_001.png
+
+newmtl N00_000_00_Body_00_SKIN_(Instance).002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_10_002.png
+map_Ke C:/Shader_NoneBlack_002.png
+map_Bump -bm 1.000000 C:/_11_002.png
+
+newmtl N00_000_00_Body_00_SKIN_(Instance).003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_10_003.png
+map_Ke C:/Shader_NoneBlack_003.png
+map_Bump -bm 1.000000 C:/_11_003.png
+
+newmtl N00_000_00_EyeHighlight_00_EYE_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd C:/_03.png
+map_Ke C:/Shader_NoneBlack.png
+map_d C:/_03.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal.png
+
+newmtl N00_000_00_EyeHighlight_00_EYE_(Instance).001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd C:/_03_001.png
+map_Ke C:/Shader_NoneBlack_001.png
+map_d C:/_03_001.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_001.png
+
+newmtl N00_000_00_EyeHighlight_00_EYE_(Instance).002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd C:/_03_002.png
+map_Ke C:/Shader_NoneBlack_002.png
+map_d C:/_03_002.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_002.png
+
+newmtl N00_000_00_EyeHighlight_00_EYE_(Instance).003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd C:/_03_003.png
+map_Ke C:/Shader_NoneBlack_003.png
+map_d C:/_03_003.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_003.png
+
+newmtl N00_000_00_EyeIris_00_EYE_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd C:/_02.png
+map_Ke C:/Shader_NoneBlack.png
+map_d C:/_02.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal.png
+
+newmtl N00_000_00_EyeIris_00_EYE_(Instance).001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd C:/_02_001.png
+map_Ke C:/Shader_NoneBlack_001.png
+map_d C:/_02_001.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_001.png
+
+newmtl N00_000_00_EyeIris_00_EYE_(Instance).002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd C:/_02_002.png
+map_Ke C:/Shader_NoneBlack_002.png
+map_d C:/_02_002.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_002.png
+
+newmtl N00_000_00_EyeIris_00_EYE_(Instance).003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd C:/_02_003.png
+map_Ke C:/Shader_NoneBlack_003.png
+map_d C:/_02_003.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_003.png
+
+newmtl N00_000_00_EyeWhite_00_EYE_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_06.png
+map_Ke C:/Shader_NoneBlack.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal.png
+
+newmtl N00_000_00_EyeWhite_00_EYE_(Instance).001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_06_001.png
+map_Ke C:/Shader_NoneBlack_001.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_001.png
+
+newmtl N00_000_00_EyeWhite_00_EYE_(Instance).002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_06_002.png
+map_Ke C:/Shader_NoneBlack_002.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_002.png
+
+newmtl N00_000_00_EyeWhite_00_EYE_(Instance).003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_06_003.png
+map_Ke C:/Shader_NoneBlack_003.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_003.png
+
+newmtl N00_000_00_FaceBrow_00_FACE_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd C:/_07.png
+map_Ke C:/Shader_NoneBlack.png
+map_d C:/_07.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal.png
+
+newmtl N00_000_00_FaceBrow_00_FACE_(Instance).001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd C:/_07_001.png
+map_Ke C:/Shader_NoneBlack_001.png
+map_d C:/_07_001.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_001.png
+
+newmtl N00_000_00_FaceBrow_00_FACE_(Instance).002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd C:/_07_002.png
+map_Ke C:/Shader_NoneBlack_002.png
+map_d C:/_07_002.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_002.png
+
+newmtl N00_000_00_FaceBrow_00_FACE_(Instance).003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd C:/_07_003.png
+map_Ke C:/Shader_NoneBlack_003.png
+map_d C:/_07_003.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_003.png
+
+newmtl N00_000_00_FaceEyelash_00_FACE_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd C:/_08.png
+map_Ke C:/Shader_NoneBlack.png
+map_d C:/_08.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal.png
+
+newmtl N00_000_00_FaceEyeline_00_FACE_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd C:/_09.png
+map_Ke C:/Shader_NoneBlack.png
+map_d C:/_09.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal.png
+
+newmtl N00_000_00_FaceEyeline_00_FACE_(Instance).001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd C:/_09_001.png
+map_Ke C:/Shader_NoneBlack_001.png
+map_d C:/_09_001.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_001.png
+
+newmtl N00_000_00_FaceEyeline_00_FACE_(Instance).002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd C:/_09_002.png
+map_Ke C:/Shader_NoneBlack_002.png
+map_d C:/_09_002.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_002.png
+
+newmtl N00_000_00_FaceEyeline_00_FACE_(Instance).003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd C:/_09_003.png
+map_Ke C:/Shader_NoneBlack_003.png
+map_d C:/_09_003.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_003.png
+
+newmtl N00_000_00_FaceMouth_00_FACE_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_01.png
+map_Ke C:/Shader_NoneBlack.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal.png
+
+newmtl N00_000_00_FaceMouth_00_FACE_(Instance).001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_01_001.png
+map_Ke C:/Shader_NoneBlack_001.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_001.png
+
+newmtl N00_000_00_FaceMouth_00_FACE_(Instance).002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_01_002.png
+map_Ke C:/Shader_NoneBlack_002.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_002.png
+
+newmtl N00_000_00_FaceMouth_00_FACE_(Instance).003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_01_003.png
+map_Ke C:/Shader_NoneBlack_003.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_003.png
+
+newmtl N00_000_00_Face_00_SKIN_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_04.png
+map_Ke C:/Shader_NoneBlack.png
+map_Bump -bm 1.000000 C:/_05.png
+
+newmtl N00_000_00_Face_00_SKIN_(Instance).001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_04_001.png
+map_Ke C:/Shader_NoneBlack_001.png
+map_Bump -bm 1.000000 C:/_05_001.png
+
+newmtl N00_000_00_Face_00_SKIN_(Instance).002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_04_002.png
+map_Ke C:/Shader_NoneBlack_002.png
+map_Bump -bm 1.000000 C:/_05_002.png
+
+newmtl N00_000_00_Face_00_SKIN_(Instance).003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_04_003.png
+map_Ke C:/Shader_NoneBlack_003.png
+map_Bump -bm 1.000000 C:/_05_003.png
+
+newmtl N00_000_00_HairBack_00_HAIR_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_12.png
+map_Ke C:/Shader_NoneBlack.png
+map_Bump -bm 1.000000 C:/N00_000_00_HairBack_00_nml.png
+
+newmtl N00_000_00_HairBack_00_HAIR_(Instance).001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_12_001.png
+map_Ke C:/Shader_NoneBlack_001.png
+map_Bump -bm 1.000000 C:/N00_000_00_HairBack_00_nml_001.png
+
+newmtl N00_000_00_HairBack_00_HAIR_(Instance).002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_12_002.png
+map_Ke C:/Shader_NoneBlack_002.png
+map_Bump -bm 1.000000 C:/N00_000_00_HairBack_00_nml_002.png
+
+newmtl N00_000_00_HairBack_00_HAIR_(Instance).003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_12_003.png
+map_Ke C:/Shader_NoneBlack_003.png
+map_Bump -bm 1.000000 C:/N00_000_00_HairBack_00_nml_003.png
+
+newmtl N00_000_Hair_00_HAIR_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_18.png
+map_Ke C:/_19.png
+map_Bump -bm 1.000000 C:/N00_000_Hair_00_nml.png
+
+newmtl N00_000_Hair_00_HAIR_(Instance).001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_19_001.png
+map_Ke C:/_20.png
+map_Bump -bm 1.000000 C:/N00_000_Hair_00_nml_001.png
+
+newmtl N00_000_Hair_00_HAIR_(Instance).002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_18_002.png
+map_Ke C:/_19_002.png
+map_Bump -bm 1.000000 C:/N00_000_Hair_00_nml_002.png
+
+newmtl N00_000_Hair_00_HAIR_(Instance).003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_18_003.png
+map_Ke C:/_19_003.png
+map_Bump -bm 1.000000 C:/N00_000_Hair_00_nml_003.png
+
+newmtl N00_001_01_Bottoms_01_CLOTH_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_14_001.png
+map_Ke C:/Shader_NoneBlack_001.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_001.png
+
+newmtl N00_001_01_Bottoms_01_CLOTH_(Instance).001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_13_003.png
+map_Ke C:/Shader_NoneBlack_003.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_003.png
+
+newmtl N00_001_03_Bottoms_01_CLOTH_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_14.png
+map_Ke C:/Shader_NoneBlack.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal.png
+
+newmtl N00_001_03_Bottoms_01_CLOTH_(Instance).001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_14_002.png
+map_Ke C:/Shader_NoneBlack_002.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_002.png
+
+newmtl N00_004_01_Shoes_01_CLOTH_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_15_001.png
+map_Ke C:/Shader_NoneBlack_001.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_001.png
+
+newmtl N00_007_01_Accessory_Tie_01_CLOTH_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_17_003.png
+map_Ke C:/Shader_NoneBlack_003.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_003.png
+
+newmtl N00_007_01_Tops_01_CLOTH_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_13.png
+map_Ke C:/Shader_NoneBlack.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal.png
+
+newmtl N00_007_01_Tops_01_CLOTH_(Instance).001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_13_002.png
+map_Ke C:/Shader_NoneBlack_002.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_002.png
+
+newmtl N00_007_01_Tops_01_CLOTH_01_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_13_001.png
+map_Ke C:/Shader_NoneBlack_001.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_001.png
+
+newmtl N00_007_01_Tops_01_CLOTH_02_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_16_001.png
+map_Ke C:/Shader_NoneBlack_001.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_001.png
+
+newmtl N00_007_02_Accessory_Tie_01_CLOTH_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_18_001.png
+map_Ke C:/Shader_NoneBlack_001.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_001.png
+
+newmtl N00_007_02_Tops_01_CLOTH_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_17_001.png
+map_Ke C:/Shader_NoneBlack_001.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_001.png
+
+newmtl N00_007_02_Tops_01_CLOTH_01_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_15_003.png
+map_Ke C:/Shader_NoneBlack_003.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_003.png
+
+newmtl N00_007_02_Tops_01_CLOTH_02_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_16_003.png
+map_Ke C:/Shader_NoneBlack_003.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_003.png
+
+newmtl N00_008_01_Shoes_01_CLOTH_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_14_003.png
+map_Ke C:/Shader_NoneBlack_003.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_003.png
+
+newmtl N00_008_01_Shoes_01_CLOTH_01_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_15.png
+map_Ke C:/Shader_NoneBlack.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal.png
+
+newmtl N00_008_01_Shoes_01_CLOTH_01_(Instance).001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_15_002.png
+map_Ke C:/Shader_NoneBlack_002.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_002.png
+
+newmtl N00_008_01_Shoes_01_CLOTH_02_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_16.png
+map_Ke C:/Shader_NoneBlack.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal.png
+
+newmtl N00_008_01_Shoes_01_CLOTH_02_(Instance).001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_16_002.png
+map_Ke C:/Shader_NoneBlack_002.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_002.png
+
+newmtl N00_010_01_Onepiece_00_CLOTH_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_17.png
+map_Ke C:/Shader_NoneBlack.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal.png
+
+newmtl N00_010_01_Onepiece_00_CLOTH_(Instance).001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_17_002.png
+map_Ke C:/Shader_NoneBlack_002.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal_002.png

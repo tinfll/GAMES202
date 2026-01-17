@@ -117,12 +117,16 @@ varying highp vec3 vNormal;
 void main(void) {
 vec3 color;
 if (uTextureSample == 1) {
-color = pow(texture2D(uSampler , vTextureCoord).rgb, vec3(2.2));
+vec4 texColor = texture2D(uSampler, vTextureCoord);
+if(texColor.a < 0.1){
+          discard;
+      }
+color = pow(texColor.rgb, vec3(2.2));
 } else {
 color = uKd;
 }
 
-vec3 ambient = 0.05 * color;
+vec3 ambient = 0.1 * color;
 
 vec3 lightDir = normalize(uLightPos - vFragPos);
 vec3 normal = normalize(vNormal);
